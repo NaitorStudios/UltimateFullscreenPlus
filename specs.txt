@@ -1,0 +1,57 @@
+Conditions
+----------
+0 - IsFullscreen
+1 - IsWindowed
+2 - OnFullscreen
+3 - OnWindowed
+4 - OnChangeWindowMode
+
+
+Actions
+-------
+0 - GoFullscreen
+1 - GoWindowed
+2 - Apply fullscreen settings to windowed size
+3 - Don't apply fullscreen settings to windowed size
+Submenu: Automatic
+	4 - SetFullscreenType(0=BestFit, 1=BestPixelPerfectFit, 2=MatchWidth, 3=MatchHeight, 4=Manual)
+		"Preserve" means the entire game will be visible no matter what, though its size is maximized
+		"MatchWidth" matches the game to the screen width, acheiving a "vert-" effect for widescreen
+		"MatchHeight" matches the game to the screen height, acheiving a "hor+" effect for widescreen
+	5 - SetGameScale (1.0 = default)
+		Allows you to multiply the size obtained through method "FullscreenType" by a float value.
+		You could have the game be twice as small, twice as big, etc.
+Submenu: Manual
+	6 - SetManualFullscreenPosition
+		Set the x/y position of the fullscreen game rectangle.
+	7 - SetManualFullscreenSize
+		Set the width/height of the fullscreen game rectangle.
+	8 - ResetManualFullscreen
+		Resets to MMF's default little game rectangle
+
+
+
+
+
+Expressions
+-----------
+0 - GameRectX
+1 - GameRectY
+2 - GameRectWidth
+3 - GameRectHeight
+	These give us the "actual" width and height in pixels of the blown-up game onscreen
+
+4 - ManualGameRectX
+5 - ManualGameRectY
+6 - ManualGameRectWidth
+7 - ManualGameRectHeight
+	The stored values for the manual mode
+
+8 - CroppedGameWidth
+9 - CroppedGameHeight
+	These will always be the normal window size when "preserve" is enabled.
+	When MatchWidth or MatchHeight are used, this tells us what parts of the game window had
+	to be cropped off.  This might be useful for moving HUD elements, etc.
+
+10 - FullscreenType
+11 - GameScale

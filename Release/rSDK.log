@@ -1,0 +1,81 @@
+﻿  Main.cpp
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(43,34): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(44,34): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(45,20): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(47,49): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(52,40): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(65,31): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(66,31): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(67,20): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(69,46): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(74,37): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(87,35): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(88,35): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(89,20): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(91,50): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Extensions\UltimateFullscreen\Main.cpp(789,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Extensions\UltimateFullscreen\Main.cpp(862,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Extensions\UltimateFullscreen\Main.cpp(863,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Extensions\UltimateFullscreen\Main.cpp(864,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Extensions\UltimateFullscreen\Main.cpp(865,111): warning C4244: 'return': conversion from 'float' to 'long', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Extensions\UltimateFullscreen\Release\rSDK.dll) does not match the Linker's OutputFile property value (C:\Program Files (x86)\Steam\steamapps\common\Clickteam Fusion 2.5\Extensions\UltimateFullscreenPlus.mfx). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1364,5): warning MSB8012: TargetExt(.dll) does not match the Linker's OutputFile property value (.mfx). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1365,5): warning MSB8012: TargetName(rSDK) does not match the Linker's OutputFile property value (UltimateFullscreenPlus). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library .\Release\rsdk.lib and object .\Release\rsdk.exp
+  rSDK.vcxproj -> C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Extensions\UltimateFullscreen\Release\rSDK.dll
