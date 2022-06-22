@@ -218,7 +218,7 @@
     <Link>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <LinkDLL>true</LinkDLL>
-      <OutputFile>c:\tools\game\multimedia fusion 2\data\runtime\ultimatefullscreen.mfx</OutputFile>
+      <OutputFile>C:\Program Files (x86)\Steam\steamapps\common\Clickteam Fusion 2.5\data\runtime\UltimateFullscreenPlus.mfx</OutputFile>
       <ImportLibrary>.\Run_Only\Template.lib</ImportLibrary>
       <AdditionalLibraryDirectories>..\..\lib\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>odbc32.lib;odbccp32.lib;mmfs2.lib;%(AdditionalDependencies)</AdditionalDependencies>

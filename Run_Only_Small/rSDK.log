@@ -1,0 +1,379 @@
+﻿  Edittime.cpp
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(43,34): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(44,34): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(45,20): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(47,49): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(52,40): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(65,31): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(66,31): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(67,20): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(69,46): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(74,37): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(87,35): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(88,35): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(89,20): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(91,50): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+  General.cpp
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(43,34): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(44,34): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(45,20): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(47,49): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(52,40): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(65,31): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(66,31): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(67,20): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(69,46): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(74,37): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(87,35): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(88,35): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(89,20): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(91,50): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Extensions\UltimateFullscreenPlus\General.cpp(127,46): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Extensions\UltimateFullscreenPlus\General.cpp(128,40): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Extensions\UltimateFullscreenPlus\General.cpp(129,48): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Main.cpp
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(43,34): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(44,34): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(45,20): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(47,49): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(52,40): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(65,31): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(66,31): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(67,20): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(69,46): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(74,37): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(87,35): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(88,35): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(89,20): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(91,50): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Extensions\UltimateFullscreenPlus\Main.cpp(789,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Extensions\UltimateFullscreenPlus\Main.cpp(862,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Extensions\UltimateFullscreenPlus\Main.cpp(863,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Extensions\UltimateFullscreenPlus\Main.cpp(864,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Extensions\UltimateFullscreenPlus\Main.cpp(865,110): warning C4244: 'return': conversion from 'float' to 'long', possible loss of data
+  Runtime.cpp
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(43,34): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(44,34): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(45,20): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(47,49): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(52,40): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(65,31): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(66,31): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(67,20): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(69,46): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(74,37): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(87,35): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(88,35): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(89,20): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(91,50): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+  Generating Code...
+  MyDialog.cpp
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(43,34): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(44,34): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(45,20): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(47,49): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(52,40): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(65,31): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(66,31): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(67,20): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(69,46): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(74,37): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(87,35): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(88,35): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(89,20): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Inc\oop_ext.h(91,50): warning C4267: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=short
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Extensions\UltimateFullscreenPlus\Run_Only_Small\rSDK.dll) does not match the Linker's OutputFile property value (C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Extensions\UltimateFullscreenPlus\Run_Only_Small\Template.mfx). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1364,5): warning MSB8012: TargetExt(.dll) does not match the Linker's OutputFile property value (.mfx). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1365,5): warning MSB8012: TargetName(rSDK) does not match the Linker's OutputFile property value (Template). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+Edittime.obj : warning LNK4229: invalid directive '/RELEASE' encountered; ignored
+Edittime.obj : warning LNK4229: invalid directive '/opt:nowin98' encountered; ignored
+General.obj : warning LNK4229: invalid directive '/RELEASE' encountered; ignored
+General.obj : warning LNK4229: invalid directive '/opt:nowin98' encountered; ignored
+Main.obj : warning LNK4229: invalid directive '/RELEASE' encountered; ignored
+Main.obj : warning LNK4229: invalid directive '/opt:nowin98' encountered; ignored
+Runtime.obj : warning LNK4229: invalid directive '/RELEASE' encountered; ignored
+Runtime.obj : warning LNK4229: invalid directive '/opt:nowin98' encountered; ignored
+MyDialog.obj : warning LNK4229: invalid directive '/RELEASE' encountered; ignored
+MyDialog.obj : warning LNK4229: invalid directive '/opt:nowin98' encountered; ignored
+     Creating library .\Run_Only_Small\Template.lib and object .\Run_Only_Small\Template.exp
+  rSDK.vcxproj -> C:\Users\NaitorStudios\Desktop\Fusion\EXT-DEV\rSDK\Extensions\UltimateFullscreenPlus\Run_Only_Small\rSDK.dll
